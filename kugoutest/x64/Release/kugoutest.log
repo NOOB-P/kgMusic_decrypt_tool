@@ -1,0 +1,8 @@
+﻿  kugoutest.cpp
+x64\Release\MD5.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  正在生成代码
+  1 of 127 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  kugoutest.vcxproj -> C:\Users\admin\source\repos\kugoutest\x64\Release\kugoutest.exe
